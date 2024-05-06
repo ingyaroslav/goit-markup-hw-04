@@ -27,7 +27,7 @@ a {
 }
 
 a:hover,
-a:active {
+a:focus {
     color: var(--feng-primary-brand);
 }
 
@@ -139,6 +139,7 @@ address {
 }
 
 address a {
+    padding: 24px 0;
     font-style: normal;
     color: var(--feng-text);
 }

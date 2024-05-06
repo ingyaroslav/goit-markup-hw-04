@@ -366,6 +366,7 @@ ul.social-icons svg {
 .news li h2,
 .news li p {
     padding: 0 16px;
+    color: var(--feng-text);
 }
 
 /* customers */
